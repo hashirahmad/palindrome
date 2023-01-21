@@ -1,0 +1,19 @@
+{
+  "name": "palindrome",
+  "version": "1.0.0",
+  "description": "Create a Node.js web service to handle the back-end for the Palindrome game. In the game a user can enter their name and a word. If the word is a palindrome then a high score should be recorded, the score being the length of the string. A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward. E.g. “bob”, “a man a plan a canal panama”. It’s up to you what are considered valid characters.",
+  "title": "Palindrome",
+  "url" 		: "",
+  "sampleUrl": "DYNAMIC",
+  "header": {
+    "title": "Overview",
+    "filename": "src/templates/apidocs_template/header.md"
+  },
+  "footer": {
+    "filename": "src/templates/apidocs_template/footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
