@@ -4,7 +4,7 @@
  * @apiGroup Scores
  * @apiPermission none
  *
- * @apiDescription This will get a list of the cards stored in the system.
+ * @apiDescription This allows you to submit an entry with the `name` and the chosen `word`. 
  * 
  * 
  * @apiParam {Object}	entry	   An JSON object consisting of { name, word }
